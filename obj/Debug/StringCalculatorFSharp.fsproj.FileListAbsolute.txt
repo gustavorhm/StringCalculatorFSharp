@@ -1,0 +1,8 @@
+C:\git_personal\StringCalculatorFSharp\bin\Debug\StringCalculatorFSharp.exe.config
+C:\git_personal\StringCalculatorFSharp\bin\Debug\StringCalculatorFSharp.XML
+C:\git_personal\StringCalculatorFSharp\bin\Debug\StringCalculatorFSharp.exe
+C:\git_personal\StringCalculatorFSharp\bin\Debug\StringCalculatorFSharp.pdb
+C:\git_personal\StringCalculatorFSharp\bin\Debug\FSharp.Core.dll
+C:\git_personal\StringCalculatorFSharp\bin\Debug\FSharp.Core.xml
+C:\git_personal\StringCalculatorFSharp\obj\Debug\StringCalculatorFSharp.exe
+C:\git_personal\StringCalculatorFSharp\obj\Debug\StringCalculatorFSharp.pdb
